@@ -107,3 +107,15 @@ A tool that helps students organize internship opportunities, application status
 ## Learning Commitment
 
 This repository will grow through genuine learning activity: issues, branches, pull requests, project improvements, and real documentation updates. The goal is not only to unlock GitHub achievements, but also to build a professional developer profile with useful, visible progress.
+
+## Collaboration Practice
+
+Collaboration is an important part of professional software development. This portfolio will use branches, pull requests, issue tracking, and co-authored commits to practice real GitHub workflows.
+
+Planned collaboration habits:
+
+- Discuss project ideas before implementation.
+- Create focused branches for each improvement.
+- Review README updates for clarity and professionalism.
+- Use co-authored commits only when another contributor genuinely helps with the work.
+- Keep pull requests small, meaningful, and easy to understand.
