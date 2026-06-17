@@ -31,11 +31,36 @@ Areas I want to explore include:
 
 ## Project Roadmap
 
-1. Build a strong GitHub profile with meaningful repositories and documentation.
-2. Create small AI projects that solve student and developer problems.
-3. Learn data visualization and apply it to satellite and space-tech datasets.
-4. Build portfolio-ready web apps with clear README files and project demos.
-5. Improve collaboration skills through issues, pull requests, and reviewed code.
+### Phase 1: Profile Foundation
+
+- Keep this repository updated with clear README improvements and project notes.
+- Use issues and pull requests to document each meaningful change.
+- Add screenshots, live demo links, and structured project descriptions when projects are ready.
+
+### Phase 2: AI Learning Projects
+
+- Build a simple AI Career Guidance Chatbot for students.
+- Practice prompt engineering, basic model integration, and user-focused chatbot flows.
+- Document the problem, solution, tech stack, and future improvements for each AI project.
+
+### Phase 3: Space-Tech Web Projects
+
+- Create a Space-Tech Landing Page with clean visuals and responsive design.
+- Learn how space organizations present missions, satellites, research, and public datasets.
+- Build reusable UI sections for mission goals, satellite features, and innovation timelines.
+
+### Phase 4: Data and Dashboard Skills
+
+- Explore public space-related datasets from reliable sources.
+- Build a Satellite Data Dashboard with charts, filters, and simple insights.
+- Learn how to explain data clearly for students, researchers, and non-technical users.
+
+### Phase 5: Portfolio and Collaboration Growth
+
+- Improve project documentation with setup steps, screenshots, and roadmap sections.
+- Use feature branches and pull requests for every significant update.
+- Collaborate with other learners through co-authored commits, discussions, and feedback.
+- Prepare the best projects for internships, resumes, and professional portfolio reviews.
 
 ## GitHub Profile Links
 
