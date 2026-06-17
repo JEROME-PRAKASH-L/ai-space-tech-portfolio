@@ -69,11 +69,40 @@ Areas I want to explore include:
 
 ## Future Project Ideas
 
-- AI Career Guidance Chatbot
-- Space-Tech Landing Page
-- Satellite Data Dashboard
-- AI Resume Builder
-- Student Internship Finder
+### 1. AI Career Guidance Chatbot
+
+An AI assistant that helps students explore career paths, skills, project ideas, and learning plans based on their interests.
+
+- Core features: student profile questions, skill suggestions, roadmap generation
+- Learning focus: chatbot design, prompt engineering, basic AI integration
+
+### 2. Space-Tech Landing Page
+
+A responsive web page that presents a futuristic space-tech concept, mission, or startup idea.
+
+- Core features: hero section, mission timeline, satellite feature cards, contact section
+- Learning focus: HTML, CSS, responsive design, visual storytelling
+
+### 3. Satellite Data Dashboard
+
+A dashboard that explains satellite or space-related datasets through charts and simple insights.
+
+- Core features: dataset summary, charts, filters, key observations
+- Learning focus: data visualization, dashboard layout, research communication
+
+### 4. AI Resume Builder
+
+A student-focused resume builder that helps create clear, professional resumes for internships and entry-level roles.
+
+- Core features: resume form, project suggestions, skills section, export-ready layout
+- Learning focus: form handling, structured content, AI-assisted writing
+
+### 5. Student Internship Finder
+
+A tool that helps students organize internship opportunities, application status, and preparation tasks.
+
+- Core features: internship tracker, skill match notes, deadlines, preparation checklist
+- Learning focus: CRUD apps, filters, local storage or database basics
 
 ## Learning Commitment
 
